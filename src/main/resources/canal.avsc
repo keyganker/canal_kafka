@@ -1,0 +1,12 @@
+{
+	"namespace" : "com.yijie.avro",
+	"type" : "record",
+	"name" : "DBRecord",
+	"fields" : [
+	     {"name" : "op", "type": "string"},
+	     {"name" : "dbname",  "type": "string"},
+	     {"name" : "tablename", "type": "string"},
+	     {"name" : "ip", "type": ["null", "string"]},
+	     {"name" : "executeTime", "type": ["null", "string"]}	     
+ 	]
+}

@@ -1,0 +1,20 @@
+db1:
+    table1:
+        - stamp
+db2:
+    table2:
+        - cardNo
+    table3:
+        - bankAcco
+    table4:
+        - bankAcco
+    table5:
+        - mobile
+        - wid
+        - area
+        - company
+        - department
+        - position
+    table6:
+        - name
+        - mobile
